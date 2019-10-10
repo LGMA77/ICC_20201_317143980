@@ -1,5 +1,9 @@
 Méndez Ávila Luis Geovanni			nro de cuenta: 317143980
 
+Para poder compilar se usa el comando javac Control.java
+y para poder correr el programa se usa el comando
+java Control.
+
 Comentario:
 
 En el problema 6 tuve complicaciones.
